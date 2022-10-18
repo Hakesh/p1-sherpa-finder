@@ -34,36 +34,44 @@ h1, h2 {
 
 /*** Header, Logo and Navigation Bar ***/
 
-header {
-    /* border: 1px solid #707070;
-    border-radius: 7px; */
-    /* position: sticky; */
-}
+/* header {
+    border: 1px solid #707070;
+    border-radius: 7px; 
+     position: sticky;
+} */
+
 
 header a {
     text-decoration: none;
     color: inherit;
 }
 
+#logo hr {
+    width: 350px;
+    border-top: 1px solid #e4e4e4;
+    margin-left: 40%;
+}
+
 #logo-image {
-    height: 150px;
+    height: 120px;
     width: 100%;
+    /* https://www.bungie.net/7_styleguide-destiny/en/aboutus#page=styleguide&guide=destiny */
     background: url(../images/Destiny_Logo_Stacked_White.png) no-repeat center center;
     background-size: contain;
-    margin-top: 15px;
+    margin-top: 40px;
 }
 
 #logo {
     font-family: Rajdhani, sans-serif;
     color: #e4e4e4;
     text-align: center;
-    font-size: 320%;
-    margin-top: 10px;
+    font-size: 280%;
+    margin-top: 15px;
 }
 
 #menu {
     text-align: center;
-    font-size: 150%;
+    font-size: 135%;
     margin-bottom: 10px;
 }
 
@@ -78,6 +86,9 @@ header a {
     border-bottom: 1px solid #EDEDED;
 }
 
+.active {
+    border-bottom: 1px solid #EDEDED;
+}
 
 /*** Hero Image / Top Image ***/
 
@@ -92,6 +103,7 @@ header a {
 #hero-image {
     height: 600px;
     width: 100%;
+    /* https://www.bungie.net/en/Explore/Detail/News/51694 */
     background: url(../images/FrontPageBanner_1920x590.webp) no-repeat center center;
     background-size: cover;
 
