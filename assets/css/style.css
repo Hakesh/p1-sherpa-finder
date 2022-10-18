@@ -46,11 +46,11 @@ header a {
     color: inherit;
 }
 
-#logo hr {
+/* #logo hr {
     width: 350px;
     border-top: 1px solid #e4e4e4;
     margin-left: 40%;
-}
+} */
 
 #logo-image {
     height: 120px;
@@ -59,6 +59,7 @@ header a {
     background: url(../images/Destiny_Logo_Stacked_White.png) no-repeat center center;
     background-size: contain;
     margin-top: 40px;
+    margin-left: 2px;
 }
 
 #logo {
@@ -107,4 +108,34 @@ header a {
     background: url(../images/FrontPageBanner_1920x590.webp) no-repeat center center;
     background-size: cover;
 
+}
+
+
+/*** Footer ***/
+
+footer {
+    width: 100%;
+    height: auto;
+    background-color: #191919;
+}
+
+#footer-text {
+    text-align: center;
+    font-size: 14px;
+    line-height: 25px;
+}
+
+#social-media {
+    text-align: center;
+}
+
+#social-media li {
+    display: inline;
+}
+
+#social-media i {
+    color: #e4e4e4;
+    font-size: 200%;
+    padding: 5px;
+    margin: 2% 3%;
 }
