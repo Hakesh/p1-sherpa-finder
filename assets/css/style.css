@@ -122,9 +122,7 @@ header a {
     line-height: 20px;
     font-size: 19px;
 
-    /* margin-bottom: 50px; */
-    /* margin-left: 50px; */
-    margin: auto;
+    margin-bottom: 50px;
 
     position: relative;
     top: 150px;
@@ -142,6 +140,7 @@ header a {
     float: left;
     padding: 50px 40px;
     /* margin-left: 50px; */
+    margin: auto; 
 }
 
 .picture_1 {
@@ -177,13 +176,16 @@ header a {
     font-size: 150%;
 
     position: relative;
+    top: 15%;
     margin: auto;
 }
 
 
 /*** 'Sign Up' Form ***/
 
-
+.checkbox, .availability {
+    display: block;
+}
 
 
 /*** Footer ***/

@@ -145,7 +145,8 @@
             <h2>How can we help?</h2>
             <p>
                 We are here to help those who are new to raiding and want to get into it and learn these unique experiences. We offer you a safe and pressure
-                free environemnt to learn with our Sherpas, where you will be playing along with other people who are also here for the same reason you are.
+                free environemnt to learn with our Sherpas, where you will be playing along with other people who are also here for the same reason you are; 
+                to learn
             </p>
             <br>
             <h3>Interested?</h3>
@@ -159,10 +160,46 @@
 
     <!-- Form Section -->
 
-    <section>
-        <div>
+    <section id="form-section">
+        <form class="signup-form" action="" method="post">
+            <fieldset>
 
-        </div>
+                <label for="uname">Name</label>
+                <input id="uname" class="text-input" type="text" name="username" required>
+
+                <label for="email">Email</label>
+                <input id="email" class="text-input" type="email" name="email-address" required>
+
+                <label for="availability">When are you available?</label>
+                <select name="availability" id="availability" class="availability">
+                    <option value="weekdays">Weekdays</option>
+                    <option value="weekends">Weekends</option>
+                </select>
+
+                <p>What raids are you interested in?</p>
+                <label for="lw-checkbox">Last Wish</label>
+                <input id="lw-checkbox" class="checkbox" type="checkbox" name="lw">
+
+                <label for="gos-checkbox">Garden of Salvation</label>
+                <input id="gos-checkbox" class="checkbox" type="checkbox" name="gos">
+
+                <label for="dsc-checkbox">Deep Stone Crypt</label>
+                <input id="dsc-checkbox" class="checkbox" type="checkbox" name="dsc">
+
+                <label for="vog-checkbox">Vault of Glass</label>
+                <input id="vog-checkbox" class="checkbox" type="checkbox" name="vog">
+
+                <label for="vow-checkbox">Vow of the Disciple</label>
+                <input id="vow-checkbox" class="checkbox" type="checkbox" name="vow">
+
+                <label for="kf-checkbox">Kingsfall</label>
+                <input id="kf-checkbox" class="checkbox" type="checkbox" name="kf">
+
+                <label for="sign-up"></label>
+                <input id="sign-up" type="submit" value="Sign Up">
+
+            </fieldset>
+        </form>
     </section>
 
     <!-- Footer -->
