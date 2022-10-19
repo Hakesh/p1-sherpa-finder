@@ -122,8 +122,9 @@ header a {
     line-height: 20px;
     font-size: 19px;
 
-    margin-bottom: 50px;
+    /* margin-bottom: 50px; */
     /* margin-left: 50px; */
+    margin: auto;
 
     position: relative;
     top: 150px;
