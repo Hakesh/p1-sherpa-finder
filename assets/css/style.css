@@ -2,12 +2,12 @@
 
 /* 
 Fonts to choose from: 
-*
+
 -Antic
 -Lato 
 -Rajdhani
 -Roboto 
-*
+
 */
 
 
@@ -26,7 +26,8 @@ body {
 }
 
 h1, h2 {
-    font-family: Roboto, sans-serif;
+    /* font-family: Roboto, sans-serif; */
+    font-family: Rajdhani, sans-serif;
     letter-spacing: 2px;
     color: #EDEDED;
 }
@@ -34,23 +35,10 @@ h1, h2 {
 
 /*** Header, Logo and Navigation Bar ***/
 
-/* header {
-    border: 1px solid #707070;
-    border-radius: 7px; 
-     position: sticky;
-} */
-
-
 header a {
     text-decoration: none;
     color: inherit;
 }
-
-/* #logo hr {
-    width: 350px;
-    border-top: 1px solid #e4e4e4;
-    margin-left: 40%;
-} */
 
 #logo-image {
     height: 120px;
@@ -59,7 +47,6 @@ header a {
     background: url(../images/Destiny_Logo_Stacked_White.png) no-repeat center center;
     background-size: contain;
     margin-top: 40px;
-    margin-left: 2px;
 }
 
 #logo {
@@ -67,13 +54,13 @@ header a {
     color: #e4e4e4;
     text-align: center;
     font-size: 280%;
-    margin-top: 15px;
+    margin-top: 18px;
 }
 
 #menu {
     text-align: center;
     font-size: 135%;
-    margin-bottom: 10px;
+    margin-bottom: 18px;
 }
 
 #menu li {
@@ -108,6 +95,71 @@ header a {
     background: url(../images/FrontPageBanner_1920x590.webp) no-repeat center center;
     background-size: cover;
 
+}
+
+
+/*** Sherpa Text Sections ***/
+
+#page-title {
+    font-family: Rajdhani, sans-serif;
+    text-align: center;
+    font-size: 250%;
+    margin: 40px 0;
+}
+
+#sherpa-infos {
+    height: 1300px;
+}
+
+.text-side {
+    width: 45%;
+    float: right;
+    padding: 30px 40px;
+}
+
+.text {
+    width: 80%;
+    line-height: 20px;
+    font-size: 19px;
+
+    margin-bottom: 50px;
+    /* margin-left: 50px; */
+
+    position: relative;
+    top: 150px;
+
+}
+
+.text h2 {
+    text-align: center;
+    border-bottom: 1px solid #e4e4e4;
+    margin: 5px 0;
+}
+
+.picture-side {
+    width: 45%;
+    float: left;
+    padding: 50px 40px;
+    /* margin-left: 50px; */
+}
+
+.picture_1 {
+    height: 500px;
+    width: 80%;
+    /* https://www.bungie.net/en/Explore/Detail/News/51726 */
+    background: url(../images/FrontPageBanner_KingsFall_1920x590.jpg) no-repeat center center;
+    background-size: cover;
+    margin-bottom: 100px;
+    float: right;
+}
+
+.picture_2 {
+    height: 500px;
+    width: 80%;
+    /* https://www.polygon.com/destiny-2-guide-walkthrough/23341425/destiny-2-kings-fall-red-border-deepsight-resonence-dr-chest-puzzle-rune-locations-crafting */
+    background: url(../images//2022_KingsFall_Raid_Press_Kit_Oryx_Compressed_002.0.jpg) no-repeat center center;
+    background-size: cover;
+    float: right;
 }
 
 
