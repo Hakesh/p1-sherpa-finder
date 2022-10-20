@@ -35,7 +35,7 @@
                     <a href="#how-we-help">How We Help</a>
                 </li>
                 <li>
-                    <a href="#">Sign Up Here</a>
+                    <a href="#form-section">Sign Up</a>
                 </li>
             </ul>
         </nav>
@@ -159,44 +159,50 @@
 
 
     <!-- Form Section -->
-
     <section id="form-section">
-        <form class="signup-form" action="" method="post">
+        <form class="signup-form" action="#" method="post">
             <fieldset>
-
-                <label for="uname">Name</label>
+                <h2>Sign up to join our Sherpa Raids!</h2>
+                
+                <label for="uname">Username</label>
                 <input id="uname" class="text-input" type="text" name="username" required>
 
                 <label for="email">Email</label>
                 <input id="email" class="text-input" type="email" name="email-address" required>
 
-                <label for="availability">When are you available?</label>
+                <label for="availability" class="form-text">When are you available?</label>
                 <select name="availability" id="availability" class="availability">
                     <option value="weekdays">Weekdays</option>
                     <option value="weekends">Weekends</option>
                 </select>
 
-                <p>What raids are you interested in?</p>
-                <label for="lw-checkbox">Last Wish</label>
-                <input id="lw-checkbox" class="checkbox" type="checkbox" name="lw">
+                <p class="form-text">What raids are you interested in?</p>
+                <div>
+                    <input id="lw-checkbox" class="checkbox" type="checkbox" name="lw">
+                    <label for="lw-checkbox">Last Wish</label>
+                </div>
+                <div>
+                    <input id="gos-checkbox" class="checkbox" type="checkbox" name="gos">
+                    <label for="gos-checkbox">Garden of Salvation</label>
+                </div>
+                <div>
+                    <input id="dsc-checkbox" class="checkbox" type="checkbox" name="dsc">
+                    <label for="dsc-checkbox">Deep Stone Crypt</label>
+                </div>
+                <div>
+                    <input id="vog-checkbox" class="checkbox" type="checkbox" name="vog">
+                    <label for="vog-checkbox">Vault of Glass</label>
+                </div>
+                <div>
+                    <input id="vow-checkbox" class="checkbox" type="checkbox" name="vow">
+                    <label for="vow-checkbox">Vow of the Disciple</label>
+                </div>
+                <div>
+                    <input id="kf-checkbox" class="checkbox" type="checkbox" name="kf">
+                    <label for="kf-checkbox">Kingsfall</label>
+                </div>
 
-                <label for="gos-checkbox">Garden of Salvation</label>
-                <input id="gos-checkbox" class="checkbox" type="checkbox" name="gos">
-
-                <label for="dsc-checkbox">Deep Stone Crypt</label>
-                <input id="dsc-checkbox" class="checkbox" type="checkbox" name="dsc">
-
-                <label for="vog-checkbox">Vault of Glass</label>
-                <input id="vog-checkbox" class="checkbox" type="checkbox" name="vog">
-
-                <label for="vow-checkbox">Vow of the Disciple</label>
-                <input id="vow-checkbox" class="checkbox" type="checkbox" name="vow">
-
-                <label for="kf-checkbox">Kingsfall</label>
-                <input id="kf-checkbox" class="checkbox" type="checkbox" name="kf">
-
-                <label for="sign-up"></label>
-                <input id="sign-up" type="submit" value="Sign Up">
+                <input class="signup-button" type="submit" value="Sign Up">
 
             </fieldset>
         </form>
