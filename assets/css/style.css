@@ -434,7 +434,7 @@ footer {
     margin: 2% 5%;
 }
 
-/*  */
+/*** Media Queries Targeting Laptops and Tablets  ***/
 
 @media screen and (max-width: 1200px){
 
@@ -450,9 +450,40 @@ footer {
 
     .sherpa-text {
         width: 60%;
+        text-align: center;
     }
 
     .text-help {
         width: 60%;
+    }
+}
+
+/*** Media Queries Targeting Mobile / Smaller Devices ***/
+
+@media screen and (max-width: 980px) {
+
+    #menu {
+        font-size: 120%;
+        border-bottom: 2px solid #e4e4e4;
+        padding-bottom: 8px;
+    }
+
+    #menu li {
+        margin: 0 5px;
+    }
+
+    .sherpa-text {
+        text-align: center;
+        font-size: 105%;
+        width: 85%;
+    }
+
+    .text-help {
+        width: 85%;
+        font-size: 130%;
+    }
+
+    .signup-form {
+        background-color: #191919b9;
     }
 }
