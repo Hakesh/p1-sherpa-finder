@@ -42,7 +42,7 @@ header a {
 #logo-image {
     height: 120px;
     width: 100%;
-    /* https://www.bungie.net/7_styleguide-destiny/en/aboutus#page=styleguide&guide=destiny */
+    /* source https://www.bungie.net/7_styleguide-destiny/en/aboutus#page=styleguide&guide=destiny */
     background: url(../images/Destiny_Logo_Stacked_White.png) no-repeat center center;
     background-size: contain;
     /* margin-top: 40px; */
@@ -75,9 +75,9 @@ header a {
     border-bottom: 1px solid #EDEDED;
 }
 
-.active {
+/* .active {
     border-bottom: 1px solid #EDEDED;
-}
+} */
 
 /*** Hero Image / Top Image ***/
 
@@ -92,7 +92,7 @@ header a {
 #hero-image {
     height: 600px;
     width: 100%;
-    /* https://www.bungie.net/en/Explore/Detail/News/51694 */
+    /* source https://www.bungie.net/en/Explore/Detail/News/51694 */
     background: url(../images/FrontPageBanner_1920x590.webp) no-repeat center center;
     background-size: cover;
 
@@ -114,17 +114,19 @@ header a {
     font-size: 115%;
 }
 
-.sherpa-row-1 img {
+.sherpa-row-1 img, .sherpa-row-2 img {
     height: 550px;
     width: 40%;
     object-fit: cover;
+
+    border-radius: 5px;
 }
 
-.sherpa-row-2 img {
+/* .sherpa-row-2 img {
     height: 550px;
     width: 40%;
     object-fit: cover;
-}
+} */
 
 .sherpa-row-1 {
     display: flex;
@@ -317,6 +319,7 @@ header a {
     clear: both;
     height: 900px;
     width: 100%;
+    /* source https://wall.alphacoders.com/big.php?i=841918 */
     background: url(../images/841918.jpg) no-repeat center center / cover fixed;
 }
 
@@ -429,4 +432,27 @@ footer {
     font-size: 200%;
     padding: 5px;
     margin: 2% 5%;
+}
+
+/*  */
+
+@media screen and (max-width: 1200px){
+
+    .sherpa-row-1 img, .sherpa-row-2 img {
+        height: 500px;
+        width: 100%;
+        object-fit: cover;
+    }
+
+    .sherpa-row-1, .sherpa-row-2 {
+        flex-direction: column;
+    }
+
+    .sherpa-text {
+        width: 60%;
+    }
+
+    .text-help {
+        width: 60%;
+    }
 }
