@@ -24,7 +24,6 @@ body {
 }
 
 h1, h2, h3 {
-    /* font-family: Roboto, sans-serif; */
     font-family: Rajdhani, sans-serif;
     letter-spacing: 2px;
     color: #EDEDED;
@@ -154,11 +153,9 @@ header a {
 /*** 'How We Help' Section ***/
 
 #how-we-help {
-    /* height: 500px; */
     height: auto;
     border-top: 5px solid #a1a1a1;
     border-bottom: 5px solid #a1a1a1;
-    overflow: hidden;
 }
 
 .text-help {
