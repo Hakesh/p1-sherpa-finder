@@ -10,13 +10,11 @@ Fonts to choose from:
 
 */
 
-
 * {
     padding: 0;
     margin: 0;
     border: 0;
 }
-
 
 body {
     font-family: Antic, sans-serif;
@@ -32,6 +30,7 @@ h1, h2, h3 {
     color: #EDEDED;
 }
 
+
 /*** Header, Logo and Navigation Bar ***/
 
 header a {
@@ -45,7 +44,6 @@ header a {
     /* source https://www.bungie.net/7_styleguide-destiny/en/aboutus#page=styleguide&guide=destiny */
     background: url(../images/Destiny_Logo_Stacked_White.png) no-repeat center center;
     background-size: contain;
-    /* margin-top: 40px; */
     margin: 40px 0;
 }
 
@@ -54,7 +52,6 @@ header a {
     color: #e4e4e4;
     text-align: center;
     font-size: 280%;
-    /* margin-top: 18px; */
     margin: 20px 0;
 }
 
@@ -75,9 +72,6 @@ header a {
     border-bottom: 1px solid #EDEDED;
 }
 
-/* .active {
-    border-bottom: 1px solid #EDEDED;
-} */
 
 /*** Hero Image / Top Image ***/
 
@@ -99,7 +93,7 @@ header a {
 }
 
 
-/*** Testing Flexbox ***/
+/*** Sherpa Text Sections ***/
 
  #page-title {
     font-family: Rajdhani, sans-serif;
@@ -122,20 +116,12 @@ header a {
     border-radius: 5px;
 }
 
-/* .sherpa-row-2 img {
-    height: 550px;
-    width: 40%;
-    object-fit: cover;
-} */
-
 .sherpa-row-1 {
     display: flex;
     justify-content: space-evenly;
     flex-direction: row-reverse;
     align-items: center;
-
     margin-bottom: 50px;
-    /* height: 500px; */
 }
 
 .sherpa-row-2 {
@@ -144,7 +130,6 @@ header a {
     flex-direction: row-reverse;
     align-items: center;
     margin-bottom: 50px;
-    /* height: 500px; */
 }
 
 .sherpa-text h3 {
@@ -166,130 +151,6 @@ header a {
 }
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-/* #page-title {
-    font-family: Rajdhani, sans-serif;
-    text-align: center;
-    font-size: 250%;
-}
-
-#sherpa-info {
-    height: 1300px;
-}
-
-.sherpa-wrapper {
-    width: 100%;
-}
-
-.sherpa-text {
-    display: inline-block;
-    
-    width: 33%;
-    clear: both;
-    font-size: 115%; */
-    /* float: right;
-    width: 33%;
-    padding: 30px 10px;
-
-    font-size: 19px;
-    line-height: 20px;
-    margin-bottom: 50px;
-    margin-right: 350px; */
-/* }
-
-.sherpa-text h2, .sherpa-text p {
-    text-align: center;
-    float: right;
-    border-bottom: 1px solid #e4e4e4;
-    margin: 5px 0;
-}
-
-
-.image {
-    float: left;
-    height: 500px;
-    width: 100%;
-    object-fit: cover;
-}
-
- */
-
-/*** Sherpa Text Sections ***/
-
-/* #page-title {
-    font-family: Rajdhani, sans-serif;
-    text-align: center;
-    font-size: 250%;
-    margin: 50px 0;
-}
-
-#sherpa-infos {
-    height: 1300px;
-}
-
-.text-side {
-    width: 45%;
-    float: right;
-    padding: 30px 40px;
-}
-
-.text-sherpa {
-    width: 80%;
-    line-height: 20px;
-    font-size: 19px;
-
-    margin-bottom: 50px;
-
-    position: relative;
-    top: 150px;
-
-}
-
-.text-sherpa h2 {
-    text-align: center;
-    border-bottom: 1px solid #e4e4e4;
-    margin: 5px 0;
-}
-
-.picture-side {
-    width: 45%;
-    float: left;
-    padding: 30px 40px;
-
-    margin: auto; 
-} */
-
-.picture_1 {
-    height: 500px;
-    width: 80%;
-    /* https://www.bungie.net/en/Explore/Detail/News/51726 */
-    background: url(../images/FrontPageBanner_KingsFall_1920x590.jpg) no-repeat center center;
-    background-size: cover;
-    margin-bottom: 100px;
-    float: right;
-}
-
-.picture_2 {
-    height: 500px;
-    width: 80%;
-    /* https://www.polygon.com/destiny-2-guide-walkthrough/23341425/destiny-2-kings-fall-red-border-deepsight-resonence-dr-chest-puzzle-rune-locations-crafting */
-    background: url(../images//2022_KingsFall_Raid_Press_Kit_Oryx_Compressed_002.0.jpg) no-repeat center center;
-    background-size: cover;
-    float: right;
-} 
-
-
 /*** 'How We Help' Section ***/
 
 #how-we-help {
@@ -307,7 +168,6 @@ header a {
     font-size: 150%;
 
     position: relative;
-    /* top: 15%; */
     padding: 50px 0;
     margin: auto;
 }
@@ -322,18 +182,6 @@ header a {
     /* source https://wall.alphacoders.com/big.php?i=841918 */
     background: url(../images/841918.jpg) no-repeat center center / cover fixed;
 }
-
-/* .signup-form {
-    background-color: #19191996;
-    border: 1px solid #19191996;
-    border-radius: 2px;
-    
-    margin: 110px 0;
-    max-width: 400px;
-    position: absolute;
-    left: 15%;
-    padding: 50px;
-} */
 
 .signup-form {
     background-color: #19191996;
@@ -433,6 +281,7 @@ footer {
     padding: 5px;
     margin: 2% 5%;
 }
+
 
 /*** Media Queries Targeting Laptops and Tablets  ***/
 
