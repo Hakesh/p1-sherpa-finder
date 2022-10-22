@@ -41,15 +41,14 @@ It's one single scrollable website that has been designed to be responsive and u
 
 ### Landing Page Image [IMAGE HERE] 
   - The Landing Page introduces the users to Sherpa Finder with a beautiful image of Guardians (what players are called in-game) standing together in unity as a team.
-  - 
 
 ### About Us
   - The 'About Us' section gives an introduction to what sherpa means if they are not famililar with the term and how it translates into Destiny, and what sherpas usually do in the game.
-  - It also describes why we exist, why we are needed and should encourage the users to contact us if they find them self in the situtations that are mentioned.
+  - It also describes why we exist, why we are needed and should encourage the users to contact us if they find them self in the situations that are mentioned.
 
 ### How We Help [IMAGE HERE]
   - Gives the users a clear idea what we offer to them with our service and how to get it.
-  - Encourage the user to join our communities or various social platforms to either get help from us or meet people in similar situatins as them, and give them a place to connect.
+  - Encourage the user to join our communities or various social platforms to either get help from us or meet people in similar situations as them, and give them a place to connect.
 
 ### Sign Up
   - This section allows the user to get involved and sign up to get help and join our Sherpas in getting to know, learning an doing the raids in a safe environment
@@ -58,12 +57,10 @@ It's one single scrollable website that has been designed to be responsive and u
 ![Image of the Sign Up Form on Sherpa Finder](assets/docs/signup-form-image.jpg)
 
 ### Footer
-  - Social media icons with link re-directing users to our social media platforms
+  - Has social media icons with relevant links re-directing users to our social media platforms and encourages them to interact with us.
 
 ![Image of the Footer on Sherpa Finder](assets/docs/footer-image.png)
 
-
-I then like to add a screenshot of each page of the site here, i use [amiresponsive](https://ui.dev/amiresponsive) which allows me to grab an image of the site as it would be displayed on mobile, tablet and desktop, this helps to show the responsiveness of the site.
 
 ### Future Implementations
 
@@ -78,6 +75,7 @@ I've tried to make the website as accessible as possible where I could by:
 
 - Using semantic HTML.
 - Using alt and aria-labels to describe the websites images and icons for screen readers.
+- Colors that are easy on the eye at any time of day.
 
 
 ## Typography
@@ -130,7 +128,7 @@ The live link can be found here - https://hakesh.github.io/p1-sherpa-finder/inde
 
 ## Testing
 
-This website was developed using Microsft Edge with theuse of Microsoft Edge Dev Tools,which have been used since the very beginning to troubleshoot this website for any problems that arose and to make sure the website was responsive on many different resolutions and devices. 
+This website was developed using Microsft Edge with the use of Microsoft Edge Dev Tools,which have been used since the very beginning to troubleshoot this website for any problems that arose and to make sure the website was responsive on many different resolutions and devices. 
 
 The website has also been tested in Google Chrome and it works as expected.
 
