@@ -153,7 +153,7 @@ The only major issue when developing this website was trying to make the 'About 
 
 ## Credits
 
-- All of the text content was written by myself. This website might be fictional, but Destiny Sherpas are a real thing in the game and my texts were written based on my own experiences, inspiritations and beliefs of what makes a 'sherpa'.
+- All of the text content was written by myself. This website might be fictional, but Destiny Sherpas are a real thing in the game and my texts were written based on my own experiences, inspirations and beliefs of what makes a 'sherpa'.
 
 - [Code Institute Template](https://github.com/Code-Institute-Org/gitpod-full-template)
   - My repository was created using the GitPod template given by Code Institute.
@@ -162,7 +162,7 @@ The only major issue when developing this website was trying to make the 'About 
   - Great resource for all kinds of wallpapers. This is where i found the background image for the sign up form. Exact source can be found in the code of style.css
 
 - [W3schools](https://www.w3schools.com/)
-  - I didn't use any specific code snippet from them but they are such an incredible resource for learning that I feel i need to include them here as their explenation and examples can help by an incredible amount when trying to understand something!
+  - I didn't use any specific code snippet from them but they are such an incredible resource for learning that I feel i need to include them here as their explanations and examples can help by an incredible amount when trying to understand something.
 
 
 - [Web Dev Simplified](https://www.youtube.com/c/WebDevSimplified)

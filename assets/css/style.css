@@ -321,3 +321,8 @@ footer {
         margin-top: 20px;
     }
 }
+
+span {
+    font-size: 140%;
+    border-bottom: 1px solid #e4e4e4;
+}
