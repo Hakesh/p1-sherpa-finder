@@ -147,7 +147,17 @@ HTML and CSS was used when making this website.
 
 ### Deployment
 
-Include instructions here on how to deploy your project. For your first project you will most likely be using GitHub Pages.
+Github Pages was used to deploy the website. The instructions to achieve this can be found below:
+
+1. Log in or sign up to Github.
+2. Find the repository for this project, [p1-sherpa-finder](https://github.com/Hakesh/p1-sherpa-finder).
+3. Click on the "Settings" button in the menu bar.
+4. Click on Pages in the left hand side navigation bar.
+5. From the Source dropdown menu, select "Deploy from a branch".
+6. From the Branch dropdown menus, select "main" and "/root" respectively.
+7. Click Save. Your live Github Pages site is now deployed at the URL shown at the top of the page. **Keep in mind it might take a bit before the page is deployed and a URL is shown, you might have to refresh the page after a few minutes to get it to show.**
+
+The live link can be found here - https://hakesh.github.io/p1-sherpa-finder/index.html
 
 ### Local Development
 
@@ -163,6 +173,14 @@ Place instructions on how to clone your project here.
 
 ## Testing
 
+### Validator Testing
+
+- HTML
+  - No errors were returned when passing through the official [W3C Validator]()
+
+- CSS
+  - No errors were found when passing through the official [(Jigsaw) Validator](https://jigsaw.w3.org/css-validator/validator?lang=en&profile=css3svg&uri=https%3A%2F%2Fhakesh.github.io%2Fp1-sherpa-finder%2Findex.html&usermedium=all&vextwarning=&warning=1)
+
 Start as you mean to go on - and get used to writing a TESTING.md file from the very first project!
 
 Testing requirements aren't massive for your first project, however if you start using a TESTING.md file from your first project you will thank yourself later when completing your later projects, which will contain much more information.
@@ -172,7 +190,7 @@ Use this part of the README to link to your TESTING.md file - you can view the e
 ## Credits
 
 - [Code Institute Template](https://github.com/Code-Institute-Org/gitpod-full-template)
-  - My repository was created using the template given by Code Institute.
+  - My repository was created using the GitPod template given by Code Institute.
 
 - [Wallpaper Abyss](https://wall.alphacoders.com/)
   - Great resource for all kinds of wallpapers. This is where i found the background image for the sign up form.
@@ -182,20 +200,20 @@ Use this part of the README to link to your TESTING.md file - you can view the e
 
 
 - [Web Dev Simplified](https://www.youtube.com/c/WebDevSimplified)
-  - Thanks to his [video](https://www.youtube.com/watch?v=fYq5PXgSsbE) on learning flexbox in 15 he saved me a lot of time and frustration from trying to make my "About" section of the website work and look the way I wanted it to, and also made it very easy to make it responsive on all devices.
+  - Thanks to his [video](https://www.youtube.com/watch?v=fYq5PXgSsbE) on learning flexbox in 15 minutes he saved me a lot of time and frustration from trying to make my "About" section of the website work and look the way I wanted it to, which also made it very easy to make it responsive on all devices.
 
 - [Bungie](https://www.bungie.net/)
-  - sdsd
+  - For providing excellent images in their presskits and allowing their content to be used for non-commercial creations
+
+- The Love Running Project
+  - Got a lot of the inspiration of my website from this project, and the things I learned following along that project
+
 ### Content
 
-All of the content was written by myself. This website might be fictional, but Destiny Sherpas are a real thing in the game and my texts were written based on my own experiences, inspiritations and beliefs of what makes a 'sherpa'.
+All of the text content was written by myself. This website might be fictional, but Destiny Sherpas are a real thing in the game and my texts were written based on my own experiences, inspiritations and beliefs of what makes a 'sherpa'.
 
 
 ###  Media
 
 If you have used any media on your site (images, audio, video etc) you can credit them here. I like to link back to the source where I found the media, and include where on the site the image is used.
   
-
-###  Acknowledgments
-
-If someone helped you out during your project, you can acknowledge them here! For example someone may have taken the time to help you on slack with a problem. Pop a little thank you here with a note of what they helped you with (I like to try and link back to their GitHub or Linked In account too). This is also a great place to thank your mentor and tutor support if you used them.
