@@ -13,7 +13,12 @@ It's one single scrollable website that has been designed to be responsive and u
 ## CONTENTS
 
 * [Features](#features)
-  * [Existing Features](#existing-features)
+  * [Navigation Bar](#navigation-bar)
+  * [Landing Page Image](#landing-page-image)
+  * [About Us](#about-us)
+  * [How We Help](#how-we-help)
+  * [Sign Up](#sign-up)
+  * [Footer](#footer)
   * [Future Implementations](#future-implementations)
   * [Accessibility](#accessibility)
 
@@ -140,6 +145,8 @@ The website has also been tested in Google Chrome and it works as expected.
 
 The only major issue when developing this website was trying to make the 'About Us' section work and look good. I tried a lot of different methods to make it look like it does now and while it looked good and worked fine on desktop resolutions, it became problematic once I had to make it responsive on medium to small devices. Thankfully i discovered flexbox and it solved this issue altogether.
 
+The lighthouse score is good but not perfect. In the future I will look to try to use the .webp image format instead for better performance.
+
 ### Validator Testing
 
 - HTML
@@ -150,11 +157,11 @@ The only major issue when developing this website was trying to make the 'About 
 
 ### Lighthouse Testing
 
-[IMAGE HERE]
+![Image of Sherpa Finder Lighthouse Score](assets/docs/lighthouse-score-image.png)
 
 ### Unfixed Bugs
 
-- Unable to make it required to select at least 1 checkbox in the sign up form. From my research you are unable to do this without the use of JavaScript which I don't know much about yet.
+- Unable to make it required to select at least 1 checkbox in the sign up form. From my research you are unable to do this without the use of JavaScript.
 
 
 ## Credits
