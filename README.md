@@ -6,7 +6,7 @@ Sherpa Finder is a fictional website targeting both new and existing players in 
 
 It's one single scrollable website that has been designed to be responsive and usable on a wide range of devices and resolutions.
 
-[IMAGE HERE]
+![text](assets/docs/am-i-responsive-image.png)
 
 ---
 
@@ -15,7 +15,7 @@ It's one single scrollable website that has been designed to be responsive and u
 * [Typography](#typography)
 
 * [Features](#features)
-  * [General Features on Each Page](#general-features-on-each-page)
+  * [Existing Features](#existing-features)
   * [Future Implementations](#future-implementations)
   * [Accessibility](#accessibility)
 
@@ -51,22 +51,31 @@ Google Fonts was used for these fonts:
 
 This section can be used to explain what pages your site is made up of.
 
-### General features on each page
+### Existing Features
 
-- Home Page [IMAGE HERE]
+- Navigation Bar [IMAGE HERE]
   - Featuring a text logo for the website, as well as a navigation bar and hero image 
 
-- About [IMAGE HERE] 
+![text](assets/docs/nav-bar-image.png)
+
+- Landing Page Image [IMAGE HERE] 
   - sdsd
+
+- About Us
+  -s
 
 - How We Help [IMAGE HERE]
   - sdsds
 
-- Sign Up [IMAGE HERE] 
+### Sign Up
   - Image with a submission form inside 
 
-- Footer [IMAGE HERE]
+![text](assets/docs/signup-form-image.jpg)
+
+### Footer
   - Social media icons with link re-directing the user to our social media platforms
+
+![text](assets/docs/footer-image.png)
 
 
 I then like to add a screenshot of each page of the site here, i use [amiresponsive](https://ui.dev/amiresponsive) which allows me to grab an image of the site as it would be displayed on mobile, tablet and desktop, this helps to show the responsiveness of the site.

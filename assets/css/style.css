@@ -45,6 +45,7 @@ header a {
     letter-spacing: 1px;
     display: inline-block;
     margin: 0 10px;
+    border-bottom: 1px solid #e4e4e4;
 }
 
 #menu a:hover {
@@ -299,7 +300,6 @@ footer {
 
     #menu li {
         margin: 0 5px;
-        border-bottom: 1px solid #e4e4e4;
     }
 
     .sherpa-text {
