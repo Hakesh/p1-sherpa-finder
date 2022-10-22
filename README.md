@@ -143,8 +143,6 @@ HTML and CSS was used when making this website.
 
 ## Deployment & Local Development
 
-👩🏻‍💻 View an example of a completed Deployment & Local Development section [here](https://github.com/kera-cudmore/TheQuizArms#Deployment)
-
 ### Deployment
 
 Github Pages was used to deploy the website. The instructions to achieve this can be found below:
@@ -159,33 +157,24 @@ Github Pages was used to deploy the website. The instructions to achieve this ca
 
 The live link can be found here - https://hakesh.github.io/p1-sherpa-finder/index.html
 
-### Local Development
-
-The local development section gives instructions on how someone else could make a copy of your project to play with on their local machine. This section will get more complex in the later projects, and can be a great reference to yourself if you forget how to do this.
-
-#### How to Fork
-
-Place instructions on how to fork your project here.
-
-#### How to Clone
-
-Place instructions on how to clone your project here.
-
 ## Testing
+
+The use of Microsoft Edge Dev Tools have been used since the very beginning to troubleshoot this project for any problems and to make sure the website was responsive on many different resolutions and devices.
 
 ### Validator Testing
 
 - HTML
-  - No errors were returned when passing through the official [W3C Validator]()
+  - No errors were returned when passing through the official [W3C Validator.](https://validator.w3.org/nu/?doc=https%3A%2F%2Fhakesh.github.io%2Fp1-sherpa-finder%2Findex.html)
 
 - CSS
-  - No errors were found when passing through the official [(Jigsaw) Validator](https://jigsaw.w3.org/css-validator/validator?lang=en&profile=css3svg&uri=https%3A%2F%2Fhakesh.github.io%2Fp1-sherpa-finder%2Findex.html&usermedium=all&vextwarning=&warning=1)
+  - No errors were found when passing through the official [(Jigsaw) Validator.](https://jigsaw.w3.org/css-validator/validator?lang=en&profile=css3svg&uri=https%3A%2F%2Fhakesh.github.io%2Fp1-sherpa-finder%2Findex.html&usermedium=all&vextwarning=&warning=1)
 
-Start as you mean to go on - and get used to writing a TESTING.md file from the very first project!
+### Lighthouse Testing
 
-Testing requirements aren't massive for your first project, however if you start using a TESTING.md file from your first project you will thank yourself later when completing your later projects, which will contain much more information.
-  
-Use this part of the README to link to your TESTING.md file - you can view the example TESTING.md file [here](milestone1-testing.md)
+### Unfixed Bugs
+
+- Unable to make it required to select at least 1 checkbox in the sign up form. From my research you are unable to do this without the use of JavaScript which I'm not versed in
+
 
 ## Credits
 
@@ -206,7 +195,7 @@ Use this part of the README to link to your TESTING.md file - you can view the e
   - For providing excellent images in their presskits and allowing their content to be used for non-commercial creations
 
 - The Love Running Project
-  - Got a lot of the inspiration of my website from this project, and the things I learned following along that project
+  - Got a lot of the inspiration of my website from this project, specifically the header, hero-image and sign up form. A lot of the things I learned following along that project is used here as well.
 
 ### Content
 

@@ -154,8 +154,8 @@ header a {
 
 #how-we-help {
     height: auto;
-    border-top: 5px solid #a1a1a1;
-    border-bottom: 5px solid #a1a1a1;
+    border-top: 10px solid #a1a1a1;
+    border-bottom: 10px solid #a1a1a1;
 }
 
 .text-help {
@@ -292,6 +292,10 @@ footer {
 
     .sherpa-row-1, .sherpa-row-2 {
         flex-direction: column;
+    }
+
+    .sherpa-row-2 {
+        margin-bottom: 0;
     }
 
     .sherpa-text {
