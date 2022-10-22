@@ -39,16 +39,22 @@ It's one single scrollable website that has been designed to be responsive and u
 
 ![Image of the Navigation Bar on Sherpa Finder](assets/docs/nav-bar-image.png)
 
-### Landing Page Image [IMAGE HERE] 
+### Landing Page Image
   - The Landing Page introduces the users to Sherpa Finder with a beautiful image of Guardians (what players are called in-game) standing together in unity as a team.
+
+![Image of the Landing Page image on Sherpa Finder](assets/docs/landing-page-image.jpg)
 
 ### About Us
   - The 'About Us' section gives an introduction to what sherpa means if they are not famililar with the term and how it translates into Destiny, and what sherpas usually do in the game.
   - It also describes why we exist, why we are needed and should encourage the users to contact us if they find them self in the situations that are mentioned.
 
-### How We Help [IMAGE HERE]
+![Image of the 'About Us' section Sherpa Finder](assets/docs/about-us-image.jpg)
+
+### How We Help
   - Gives the users a clear idea what we offer to them with our service and how to get it.
   - Encourage the user to join our communities or various social platforms to either get help from us or meet people in similar situations as them, and give them a place to connect.
+
+![Image of the 'How We Help' section Sherpa Finder](assets/docs/how-we-help-image.png)
 
 ### Sign Up
   - This section allows the user to get involved and sign up to get help and join our Sherpas in getting to know, learning an doing the raids in a safe environment
