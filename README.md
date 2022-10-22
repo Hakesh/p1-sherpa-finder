@@ -1,6 +1,6 @@
 # Sherpa Finder
 
-Sherpa Finder is a fictional website targeting both new and existing players in the video game Destiny who want to get help getting into and learning Raid content in the game. The website gives information about what we do, why we do it, how we help and a sign up form to let the players interested in getting our help to contact us.
+Sherpa Finder is a fictional website targeting both new and existing players in the video game Destiny who want help getting into and learning Raid content in the game. The website gives information about what we do, why we do it, how we help and a sign up form to let the players interested in getting our help reach out and sign up to our Sherpa Raids.
 
 It's one single scrollable website that has been designed to be responsive and usable on a wide range of devices and resolutions.
 
@@ -178,4 +178,4 @@ The only major issue when developing this website was trying to make the 'About 
   - Used for finding and using the fonts 'Antic' and 'Rajdhani'.
 
 - The Love Running Project
-  - Got a lot of the inspiration of my website from this project, specifically the header, hero-image and sign up form. A lot of the things I learned following along that project is used here as well.
+  - Got a lot of the inspiration of my website from this project, specifically the header, landing page/image and sign up form. A lot of the things I learned following along that project is used here as well.

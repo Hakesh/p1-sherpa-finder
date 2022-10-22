@@ -53,9 +53,9 @@ header a {
 }
 
 
-/*** Hero Image / Top Image ***/
+/*** Landing Image / Top Image ***/
 
-#image-area {
+#landing-page {
     height: 600px;
     width: 100%;
 
@@ -63,7 +63,7 @@ header a {
     position: relative;
 }
 
-#hero-image {
+#landing-image {
     height: 600px;
     width: 100%;
     /* source https://www.bungie.net/en/Explore/Detail/News/51694 */
