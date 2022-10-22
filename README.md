@@ -62,7 +62,7 @@ It's one single scrollable website that has been designed to be responsive and u
 ![Image of the 'How We Help' section Sherpa Finder](assets/docs/how-we-help-image.png)
 
 ### Sign Up
-  - This section allows the user to get involved and sign up to get help and join our Sherpas in getting to know, learning an doing the raids in a safe environment
+  - This section allows the user to get involved and sign up to get help and join our Sherpas in getting to know, learning and doing the raids in a safe environment.
   - The user will be able to specify which type of day suits them the best, and let us know which raid or raids they are interested in doing with us.
 
 ![Image of the Sign Up Form on Sherpa Finder](assets/docs/signup-form-image.jpg)
@@ -125,11 +125,11 @@ HTML and CSS was used when making this website.
 
 ## Deployment
 
-Github Pages was used to deploy the website. The instructions to achieve this can be found below:
+Github Pages was used to deploy the website. The instructions to do this can be found below:
 
 1. Log in or sign up to Github.
 2. Find the repository for this project, [p1-sherpa-finder](https://github.com/Hakesh/p1-sherpa-finder).
-3. Click on the "Settings" button in the menu bar.
+3. Click on the "Settings" button in the menu bar for the repository.
 4. Click on Pages in the left hand side navigation bar.
 5. From the Source dropdown menu, select "Deploy from a branch".
 6. From the Branch dropdown menus, select "main" and "/root" respectively.
@@ -139,7 +139,7 @@ The live link can be found here - https://hakesh.github.io/p1-sherpa-finder/inde
 
 ## Testing
 
-This website was developed using Microsft Edge with the use of Microsoft Edge Dev Tools,which have been used since the very beginning to troubleshoot this website for any problems that arose and to make sure the website was responsive on many different resolutions and devices. 
+This website was developed using Microsft Edge with the use of Microsoft Edge Dev Tools, which have been used since the very beginning to troubleshoot this website for any problems that arose and to make sure the website was responsive on many different resolutions and devices. 
 
 The website has also been tested in Google Chrome and it works as expected.
 
@@ -179,7 +179,7 @@ The lighthouse score is good but not perfect. In the future I will look to try t
 
 
 - [Web Dev Simplified](https://www.youtube.com/c/WebDevSimplified)
-  - Thanks to his [video](https://www.youtube.com/watch?v=fYq5PXgSsbE) on learning flexbox in 15 minutes he saved me a lot of time and frustration from trying to make my "About" section of the website work and look the way I wanted it to, which also made it very easy to make it responsive on all devices.
+  - Thanks to his [video](https://www.youtube.com/watch?v=fYq5PXgSsbE) on learning flexbox in 15 minutes he saved me a lot of time and frustration from trying to make my "About Us" section of the website work and look the way I wanted it to, using flexbox also made it very easy to make it responsive on all devices.
 
 - [Bungie](https://www.bungie.net/)
   - For providing excellent images in their press-kits and articles on their website and for allowing their content to be used in non-commercial creations. The landing page image and both 'About Us' images were taken from their websites. Exact sources can be found in the code of index.html and style.css.
