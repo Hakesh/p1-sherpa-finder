@@ -332,4 +332,8 @@ footer {
     .signup-form {
         background-color: #191919b9;
     }
+
+    #social-media {
+        margin-top: 20px;
+    }
 }
