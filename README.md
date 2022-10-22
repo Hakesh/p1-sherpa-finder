@@ -2,6 +2,11 @@
 
 [Sherpa Finder - Live Link](https://hakesh.github.io/p1-sherpa-finder/index.html) (Right click to open in a new tab)
 
+Sherpa Finder is a website targeting both new and existing players in the video game Destiny who want to get help getting into and learning Raid content in the game. The website gives information about what we do, why we do it and a sign up form to let the players interested in getting our help to contact us and 
+
+It's one single scrollable website that has been designed to be responsive and usable on a wide range of devices and resolutions.
+
+
 👩🏻‍💻 View an example of this section [here](https://github.com/kera-cudmore/Bully-Book-Club#bully-book-club-website)
 
 Add a Blurb about the site here, what does it do, why did you build it?
@@ -9,8 +14,6 @@ Add a Blurb about the site here, what does it do, why did you build it?
 Add an image of the finished site here. I like to use [amiresponsive](https://ui.dev/amiresponsive) to get an image of my site on all device sizes, and amiresponsive allows you to click links on the page and scroll, so each device can show a different element of your site.
 
 Add a link to the live site here, for Milestone 1 this will be the GitHub Pages Link from when you deployed the site.
-
-If you want to add optional [shields.io](https://shields.io) badges to your README, I like to add them to this section.
 
 ---
 
