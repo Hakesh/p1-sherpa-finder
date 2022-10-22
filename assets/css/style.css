@@ -86,7 +86,7 @@ header a {
     height: 600px;
     width: 100%;
     /* source https://www.bungie.net/en/Explore/Detail/News/51694 */
-    background: url(../images/FrontPageBanner_1920x590.webp) no-repeat center center;
+    background: url(../images/hero-image-6-guardians.webp) no-repeat center center;
     background-size: cover;
 
 }
@@ -177,7 +177,7 @@ header a {
     height: 900px;
     width: 100%;
     /* source https://wall.alphacoders.com/big.php?i=841918 */
-    background: url(../images/841918.jpg) no-repeat center center / cover fixed;
+    background: url(../images/the-traveler.jpg) no-repeat center center / cover fixed;
 }
 
 .signup-form {
