@@ -2,30 +2,17 @@
 
 [Sherpa Finder - Live Link](https://hakesh.github.io/p1-sherpa-finder/index.html) (Right click to open in a new tab)
 
-Sherpa Finder is a website targeting both new and existing players in the video game Destiny who want to get help getting into and learning Raid content in the game. The website gives information about what we do, why we do it and a sign up form to let the players interested in getting our help to contact us and 
+Sherpa Finder is a fictional website targeting both new and existing players in the video game Destiny who want to get help getting into and learning Raid content in the game. The website gives information about what we do, why we do it, how we help and a sign up form to let the players interested in getting our help to contact us.
 
 It's one single scrollable website that has been designed to be responsive and usable on a wide range of devices and resolutions.
 
-
-👩🏻‍💻 View an example of this section [here](https://github.com/kera-cudmore/Bully-Book-Club#bully-book-club-website)
-
-Add a Blurb about the site here, what does it do, why did you build it?
-
-Add an image of the finished site here. I like to use [amiresponsive](https://ui.dev/amiresponsive) to get an image of my site on all device sizes, and amiresponsive allows you to click links on the page and scroll, so each device can show a different element of your site.
-
-Add a link to the live site here, for Milestone 1 this will be the GitHub Pages Link from when you deployed the site.
+[IMAGE HERE]
 
 ---
 
 ## CONTENTS
 
-* [User Experience](#user-experience-ux)
-  * [User Stories](#user-stories)
-
-* [Design](#design)
-  * [Colour Scheme](#colour-scheme)
-  * [Typography](#typography)
-  * [Imagery](#imagery)
+* [Typography](#typography)
 
 * [Features](#features)
   * [General Features on Each Page](#general-features-on-each-page)
@@ -38,9 +25,6 @@ Add a link to the live site here, for Milestone 1 this will be the GitHub Pages 
 
 * [Deployment & Local Development](#deployment--local-development)
   * [Deployment](#deployment)
-  * [Local Development](#local-development)
-    * [How to Fork](#how-to-fork)
-    * [How to Clone](#how-to-clone)
 
 * [Testing](#testing)
 
@@ -48,42 +32,17 @@ Add a link to the live site here, for Milestone 1 this will be the GitHub Pages 
   * [Code Used](#code-used)
   * [Content](#content)
   * [Media](#media)
-  * [Acknowledgments](#acknowledgments)
 
 ---
 
-## User Experience (UX)
-
-👩🏻‍💻 View an example of a completed user experience section [here](https://github.com/kera-cudmore/Bully-Book-Club#user-experience-ux)
-
-### User Stories
-
-Add your user stories here. You want to include first time visitors and returning visitors here as a minimum. Think about each group, and the experience and journey you want them to have on your site. It really helps to think about this before you start coding, and will really help with creating your wireframes.
-
-## Design
-
-👩🏻‍💻 View an example of a completed design section [here](https://github.com/kera-cudmore/earth-day-hackathon-2022#Design)
-
-### Colour Scheme
-
-Add all information about your colour scheme for your site here. You can explain why you choose the colours you did?
-
-I like to include a palette of the colour scheme here, my favourite site for creating a colour palette is [coolors](https://coolors.co/), but there are lots of other sites that also do the same thing, like [ColorSpace](https://mycolor.space/?hex=%23F5F5F5&sub=1), [Muzli Colors](https://colors.muz.li/), [Adobe Colour Wheel](https://color.adobe.com/create/color-wheel) and [Canva](https://www.canva.com/colors/color-palette-generator/) to name a few.
-
-### Typography
+## Typography
 
 Google Fonts was used for these fonts:
 - Rajdhani for all website headings.
 - Antic for all website body text / paragraphs and the navigation bar.
 
-### Imagery
-
-Use this section to explain what sort of imagery you plan to use through your site.
-
 
 ## Features
-
-👩🏻‍💻 View an example of a completed user experience section [here](https://github.com/kera-cudmore/TheQuizArms#Features)
 
 This section can be used to explain what pages your site is made up of.
 
@@ -104,7 +63,6 @@ This section can be used to explain what pages your site is made up of.
 - Footer
   - Social media icons with link re-directing the user to our social media platforms
 
-If there is a feature that appears on all pages of your site, include it here. Examples of what to include would the the navigation, a footer and a favicon.
 
 I then like to add a screenshot of each page of the site here, i use [amiresponsive](https://ui.dev/amiresponsive) which allows me to grab an image of the site as it would be displayed on mobile, tablet and desktop, this helps to show the responsiveness of the site.
 
@@ -112,7 +70,7 @@ I then like to add a screenshot of each page of the site here, i use [amirespons
 
 - A fixed header for easier/better access to the navigation of the website.
 - A 'Meet the Team' page with various pictures of the fictional Sherpas the website offers to help players.
-- My own website where the 'Sign Up' form would take you once registering instead of using the Code Institute formdump.
+- Making my own page where the 'Sign Up' form would take you once registering instead of using the Code Institute formdump.
 
 
 ### Accessibility
@@ -162,7 +120,12 @@ The live link can be found here - https://hakesh.github.io/p1-sherpa-finder/inde
 
 ## Testing
 
-The use of Microsoft Edge Dev Tools have been used since the very beginning to troubleshoot this project for any problems and to make sure the website was responsive on many different resolutions and devices.
+This website was developed using Microsft Edge. The use of Microsoft Edge Dev Tools have been used since the very beginning to troubleshoot this website for any problems that arose and to make sure the website was responsive on many different resolutions and devices. 
+
+The website has also been tested in Google Chrome and it works as expected.
+
+
+
 
 ### Validator Testing
 
@@ -176,10 +139,14 @@ The use of Microsoft Edge Dev Tools have been used since the very beginning to t
 
 ### Unfixed Bugs
 
-- Unable to make it required to select at least 1 checkbox in the sign up form. From my research you are unable to do this without the use of JavaScript which I'm not versed in
+- Unable to make it required to select at least 1 checkbox in the sign up form. From my research you are unable to do this without the use of JavaScript which I don't know much about yet.
 
 
 ## Credits
+
+### Content
+
+All of the text content was written by myself. This website might be fictional, but Destiny Sherpas are a real thing in the game and my texts were written based on my own experiences, inspiritations and beliefs of what makes a 'sherpa'.
 
 - [Code Institute Template](https://github.com/Code-Institute-Org/gitpod-full-template)
   - My repository was created using the GitPod template given by Code Institute.
@@ -200,9 +167,7 @@ The use of Microsoft Edge Dev Tools have been used since the very beginning to t
 - The Love Running Project
   - Got a lot of the inspiration of my website from this project, specifically the header, hero-image and sign up form. A lot of the things I learned following along that project is used here as well.
 
-### Content
 
-All of the text content was written by myself. This website might be fictional, but Destiny Sherpas are a real thing in the game and my texts were written based on my own experiences, inspiritations and beliefs of what makes a 'sherpa'.
 
 
 ###  Media
