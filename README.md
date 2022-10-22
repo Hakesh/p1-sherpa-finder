@@ -38,9 +38,14 @@ It's one single scrollable website that has been designed to be responsive and u
 ## Typography
 
 Google Fonts was used for these fonts:
-- Rajdhani for all website headings.
-- Antic for all website body text / paragraphs and the navigation bar.
 
+- **Rajdhani** for all website headings.
+
+![This is an image](assets/docs/rajdhani-font.png)
+
+- **Antic** for all website body text / paragraphs and the navigation bar.
+
+![This is an image](assets/docs/antic-font.png)
 
 ## Features
 
@@ -48,19 +53,19 @@ This section can be used to explain what pages your site is made up of.
 
 ### General features on each page
 
-- Home Page
+- Home Page [IMAGE HERE]
   - Featuring a logo for the website, as well as a navigation bar and hero image 
 
-- About
+- About [IMAGE HERE] 
   - sdsd
 
-- How We Help
+- How We Help [IMAGE HERE]
   - sdsds
 
-- Sign Up
+- Sign Up [IMAGE HERE] 
   - Image with a submission form inside 
 
-- Footer
+- Footer [IMAGE HERE]
   - Social media icons with link re-directing the user to our social media platforms
 
 
@@ -102,9 +107,7 @@ HTML and CSS was used when making this website.
 - [Am I Responsive](https://ui.dev/amiresponsive) - To show the website on a wide range of devices.
 
 
-## Deployment & Local Development
-
-### Deployment
+## Deployment
 
 Github Pages was used to deploy the website. The instructions to achieve this can be found below:
 
@@ -136,6 +139,8 @@ The website has also been tested in Google Chrome and it works as expected.
   - No errors were found when passing through the official [(Jigsaw) Validator.](https://jigsaw.w3.org/css-validator/validator?lang=en&profile=css3svg&uri=https%3A%2F%2Fhakesh.github.io%2Fp1-sherpa-finder%2Findex.html&usermedium=all&vextwarning=&warning=1)
 
 ### Lighthouse Testing
+
+[IMAGE HERE]
 
 ### Unfixed Bugs
 
