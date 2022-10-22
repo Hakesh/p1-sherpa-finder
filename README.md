@@ -54,7 +54,7 @@ This section can be used to explain what pages your site is made up of.
 ### General features on each page
 
 - Home Page [IMAGE HERE]
-  - Featuring a logo for the website, as well as a navigation bar and hero image 
+  - Featuring a text logo for the website, as well as a navigation bar and hero image 
 
 - About [IMAGE HERE] 
   - sdsd
